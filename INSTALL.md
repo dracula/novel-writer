@@ -19,10 +19,10 @@ On most UNIX-based systems the following should work:
 
 If that does not work on your machine, manually copy syntax/dracula.conf & themes/dracula.conf to the respective syntax and themes directories in the novelWriter config directory:
 
-Windows: C:\Users<your_user_name>\AppData\Roaming\novelWriter\<syntax_or_themes>
-Windows portable mode: <your_novelWriter_portable_folder>\data\<syntax_or_themes>
-GNU/Linux: ~/.config/novelWriter/<syntax_or_themes>
-macOS: ~/Library/Application Support/novelWriter/<syntax_or_themes>
+	Windows: C:\Users<your_user_name>\AppData\Roaming\novelWriter\<syntax_or_themes>
+	Windows portable mode: <your_novelWriter_portable_folder>\data\<syntax_or_themes>
+	GNU/Linux: ~/.config/novelWriter/<syntax_or_themes>
+	macOS: ~/Library/Application Support/novelWriter/<syntax_or_themes>
 
 #### Activating theme
 
