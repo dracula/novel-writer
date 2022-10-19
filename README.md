@@ -12,10 +12,6 @@ All instructions can be found at [draculatheme.com/foobar](https://draculatheme.
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/novelWriter/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
-| ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
-
 | [![Brandon Vout](https://github.com/bvout.png?size=100)](https://github.com/bvout) |
 | ---------------------------------------------------------------------------------------- |
 | [Brandon Vout](https://github.com/bvout)                                               |
