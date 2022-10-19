@@ -16,6 +16,10 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | ---------------------------------------------------------------------------------------- |
 | [Zeno Rocha](https://github.com/zenorocha)                                               |
 
+| [![Brandon Vout](https://github.com/bvout.png?size=100)](https://github.com/bvout) |
+| ---------------------------------------------------------------------------------------- |
+| [Brandon Vout](https://github.com/bvout)                                               |
+
 ## Community
 
 - [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
