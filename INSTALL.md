@@ -21,7 +21,7 @@ If that does not work on your machine, manually copy syntax/dracula.conf & theme
 
 	Windows: C:\Users<your_user_name>\AppData\Roaming\novelWriter\<syntax_or_themes>
 	Windows portable mode: <your_novelWriter_portable_folder>\data\<syntax_or_themes>
-	GNU/Linux: ~/.config/novelWriter/<syntax_or_themes>
+	GNU/Linux: ~/.local/share/novelwriter/<syntax_or_themes>
 	macOS: ~/Library/Application Support/novelWriter/<syntax_or_themes>
 
 #### Activating theme
