@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    git clone https://github.com/bvout/novelwriter-dracula.git
+    git clone https://github.com/dracula/novelwriter.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/bvout/novelwriter-dracula/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/novelwriter/archive/master.zip) option and unzip them.
 
 #### Copy theme to novelWriter config directory
 Copy syntax/dracula.conf & themes/dracula.conf to the respective syntax and themes directories in the novelWriter config directory:

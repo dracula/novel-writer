@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/novelWriter).
+All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/novelwriter).
 
 ## Team
 
