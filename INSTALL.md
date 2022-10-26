@@ -14,7 +14,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/novelwriter
 Copy syntax/dracula.conf & themes/dracula.conf to the respective syntax and themes directories in the novelWriter config directory:
 
 * Windows: `C:\Users\<your_user_name>\AppData\Roaming\novelwriter\<syntax_or_themes>`
-* GNU/Linux: `~/.local/share/novelwriter/<syntax_or_themes>``
+* GNU/Linux: `~/.local/share/novelwriter/<syntax_or_themes>`
 * macOS: `~/Library/Application Support/novelwriter/<syntax_or_themes>`
 
 #### Activating theme
