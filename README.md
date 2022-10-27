@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/novelwriter](https://draculat
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/novelWriter/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/novelwriter/graphs/contributors).
 
 | [![Brandon Vout](https://github.com/bvout.png?size=100)](https://github.com/bvout) |
 | ---------------------------------------------------------------------------------------- |
