@@ -20,5 +20,5 @@ Copy `syntax/dracula.conf`, `themes/dracula.conf`, & `themes/dracula_alt.conf` t
 #### Activating theme
 
 1. Go to Tools > Preferences
-2. Select **Dracula** or **Dracula Alt** GUI theme in the *General* Tab
-3. Select **Dracula** syntax highlighting theme in the *Highlighting* tab
+2. In the *General* Tab, select the **Dracula** or **Dracula Alt** GUI theme
+3. In the *Highlighting* tab, select the **Dracula** syntax highlighting theme
