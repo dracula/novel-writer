@@ -10,11 +10,11 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/novelwriter](https://draculatheme.com/novelwriter).
+All instructions can be found at [draculatheme.com/novel-writer](https://draculatheme.com/novel-writer).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/novelwriter/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/novel-writer/graphs/contributors).
 
 | [![Brandon Vout](https://github.com/bvout.png?size=100)](https://github.com/bvout) |
 | ---------------------------------------------------------------------------------------- |
