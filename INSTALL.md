@@ -55,7 +55,7 @@ There is no separate config file to copy and paste into a folder. One either nee
 1. Go to location of existing novelWriter project
 2. Create a backup of `nwProject.nwx` in case something breaks
 3. Open `nwProject.nwx`
-4. For a new **Minimal** or **Custom** project, replace `<status>` and `<importance>` tags with:
+4. For a new **Minimal** or **Custom** project, replace the `<status>` and `<importance>` tags with:
 ```
     <status>
       <entry key="sc23dcb" count="5" red="68" green="71" blue="90">New</entry>
