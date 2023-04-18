@@ -71,7 +71,7 @@ There is no separate config file to copy and paste into a folder. One either nee
     </importance>
 ```
 
-5. For a new **Example** project, same as in step 5 using the codeblock below.
+5. For a new **Example** project, same as in step 4 using the codeblock below.
 
 	**Important!** The `key` vales may change between versions and not updating them will break the Example project's existing Label assignments. Check before pasting!
 ```
