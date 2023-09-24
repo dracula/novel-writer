@@ -25,7 +25,7 @@ Copy `syntax/dracula.conf`, `themes/dracula.conf`, & `themes/dracula_alt.conf` t
 
 #### Changing label colors
 
-There is no separate config file to copy and paste into a folder. One either needs to change the settings manually for each novelWriter project or edit the `nwProject.nwx` file.
+There is no separate config file to copy and paste into a folder. One either needs to change the settings manually in each novelWriter project or edit each project's `nwProject.nwx` file.
 
 ##### Within novelWriter
 
@@ -52,7 +52,7 @@ There is no separate config file to copy and paste into a folder. One either nee
 
 ##### Editing `nwProject.nwx`
 
-1. Go to location of existing novelWriter project
+1. Go to the location of an existing novelWriter project
 2. Create a backup of `nwProject.nwx` in case something breaks
 3. Open `nwProject.nwx`
 4. For a new **Minimal** or **Custom** project, replace the `<status>` and `<importance>` tags with:
@@ -73,7 +73,7 @@ There is no separate config file to copy and paste into a folder. One either nee
 
 5. For a new **Example** project, same as in step 4 but using the codeblock below:
 
-	**Important!** The `key` vales may change between versions and not updating them will break the Example project's existing Label assignments. Check before pasting!
+	**Important!** The `key` values may change between versions and not updating them will break the Example project's existing Label assignments. Check before pasting!
 ```
     <status>
       <entry key="sf4fb66" count="5" red="68" green="71" blue="90">New</entry>
