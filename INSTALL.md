@@ -58,16 +58,16 @@ There is no separate config file to copy and paste into a folder. One either nee
 4. For a new **Minimal** or **Custom** project, replace the `<status>` and `<importance>` tags with:
 ```
     <status>
-      <entry key="sc23dcb" count="5" red="68" green="71" blue="90">New</entry>
-      <entry key="sa5bc93" count="0" red="255" green="85" blue="85">Note</entry>
-      <entry key="sa4dc09" count="0" red="255" green="184" blue="108">Draft</entry>
-      <entry key="sccbbbb" count="0" red="80" green="250" blue="123">Finished</entry>
+      <entry key="s3d19cf" count="5" red="68" green="71" blue="90">New</entry>
+      <entry key="s215281" count="0" red="255" green="85" blue="85">Note</entry>
+      <entry key="s42e692" count="0" red="255" green="184" blue="108">Draft</entry>
+      <entry key="s44be75" count="0" red="80" green="250" blue="123">Finished</entry>
     </status>
     <importance>
-      <entry key="i1b9bd9" count="3" red="68" green="71" blue="90">New</entry>
-      <entry key="i375425" count="0" red="139" green="233" blue="253">Minor</entry>
-      <entry key="iaae736" count="0" red="255" green="121" blue="198">Major</entry>
-      <entry key="i4207ac" count="0" red="189" green="147" blue="249">Main</entry>
+      <entry key="if15af4" count="3" red="68" green="71" blue="90">New</entry>
+      <entry key="i12d160" count="0" red="139" green="233" blue="253">Minor</entry>
+      <entry key="ie85c9e" count="0" red="255" green="121" blue="198">Major</entry>
+      <entry key="ife27d3" count="0" red="189" green="147" blue="249">Main</entry>
     </importance>
 ```
 
@@ -76,18 +76,18 @@ There is no separate config file to copy and paste into a folder. One either nee
 	**Important!** The `key` values may change between versions and not updating them will break the Example project's existing Label assignments. Check before pasting!
 ```
     <status>
-      <entry key="sf4fb66" count="5" red="68" green="71" blue="90">New</entry>
-      <entry key="s61a90c" count="1" red="255" green="85" blue="85">Notes</entry>
-      <entry key="s4b5bd5" count="2" red="255" green="85" blue="85">Started</entry>
-      <entry key="s40ee5b" count="6" red="255" green="184" blue="108">1st Draft</entry>
-      <entry key="s569406" count="1" red="255" green="184" blue="108">2nd Draft</entry>
-      <entry key="sfc557a" count="0" red="255" green="184" blue="108">3rd Draft</entry>
-      <entry key="s715de7" count="0" red="80" green="250" blue="123">Finished</entry>
+      <entry key="sf12341" count="5" red="68" green="71" blue="90">New</entry>
+      <entry key="sf24ce6" count="1" red="255" green="85" blue="85">Notes</entry>
+      <entry key="sc24b8f" count="2" red="255" green="85" blue="85">Started</entry>
+      <entry key="s90e6c9" count="6" red="255" green="184" blue="108">1st Draft</entry>
+      <entry key="sd51c5b" count="1" red="255" green="184" blue="108">2nd Draft</entry>
+      <entry key="s8ae72a" count="0" red="255" green="184" blue="108">3rd Draft</entry>
+      <entry key="s78ea90" count="0" red="80" green="250" blue="123">Finished</entry>
     </status>
     <importance>
-      <entry key="i7560ff" count="5" red="68" green="71" blue="90">None</entry>
-      <entry key="ib7f90e" count="2" red="139" green="233" blue="253">Minor</entry>
-      <entry key="i8632bb" count="2" red="255" green="121" blue="198">Major</entry>
-      <entry key="ie81f49" count="1" red="189" green="147" blue="249">Main</entry>
+      <entry key="ia857f0" count="5" red="68" green="71" blue="90">None</entry>
+      <entry key="icfb3a5" count="2" red="139" green="233" blue="253">Minor</entry>
+      <entry key="i2d7a54" count="2" red="255" green="121" blue="198">Major</entry>
+      <entry key="i56be10" count="1" red="189" green="147" blue="249">Main</entry>
     </importance>
 ```
