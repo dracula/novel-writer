@@ -41,7 +41,7 @@ There is no separate config file to copy and paste into a folder. One either nee
 ##### Within novelWriter
 
 1. Go to Project > Project Settings
-2. In the _Status_ Tab, select a Label, click **Color**, input hex value, and click **Save** for each Label
+2. In the _Status_ Tab, select a Label, select the color box at the bottom of the menu, input the hex value, and click **Apply** for each Label
     - **Minimal** or **Custom** project:
         - New: `#44475a`
         - Notes: `#ff5555`
