@@ -1,5 +1,15 @@
 ### [novelWriter](https://novelwriter.io/)
 
+#### Native Theme
+
+[As of novelWriter 2.5](https://novelwriter.io/releases/release_2_5.html#theme-additions), a Dracula GUI and syntax theme comes bundled with the software.
+
+1. Go to Tools > Preferences
+2. In the _Appearance_ section, select the **Dracula** Color theme for the GUI theme
+3. In the _Document Style_ section, select the **Dracula** Document color theme for the syntax highlighting theme
+
+The native version differs slightly from our original themes, which remain available for use as alternatives.
+
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
@@ -11,17 +21,18 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 Download using the [GitHub .zip download](https://github.com/dracula/novel-writer/archive/master.zip) option and unzip them.
 
 #### Copy theme to novelWriter config directory
+
 Copy `syntax/dracula.conf`, `themes/dracula.conf`, & `themes/dracula_alt.conf` to the respective syntax and themes directories in the novelWriter config directory:
 
-* GNU/Linux: `~/.local/share/novelwriter/<syntax_or_themes>`
-* macOS: `~/Library/Application Support/novelwriter/<syntax_or_themes>`
-* Windows: `C:\Users\<your_user_name>\AppData\Roaming\novelwriter\<syntax_or_themes>`
+-   GNU/Linux: `~/.local/share/novelwriter/<syntax_or_themes>`
+-   macOS: `~/Library/Application Support/novelwriter/<syntax_or_themes>`
+-   Windows: `C:\Users\<your_user_name>\AppData\Roaming\novelwriter\<syntax_or_themes>`
 
-#### Activating theme
+#### Activating themes
 
 1. Go to Tools > Preferences
-2. In the *General* Tab, select the **Dracula** or **Dracula Alt** GUI theme
-3. In the *Highlighting* tab, select the **Dracula** syntax highlighting theme
+2. In the _Appearance_ section, select the **Dracula Flat** or **Dracula Alt** Color theme for the GUI theme
+3. In the _Document Style_ section, select the **Dracula Alt** Document color theme for the syntax highlighting theme
 
 #### Changing label colors
 
@@ -30,25 +41,25 @@ There is no separate config file to copy and paste into a folder. One either nee
 ##### Within novelWriter
 
 1. Go to Project > Project Settings
-2. In the *Status* Tab, select a Label, click **Color**, input hex value, and click **Save** for each Label
-	* **Minimal** or **Custom** project:
-		- New: `#44475a`
-		- Notes: `#ff5555`
-		- Draft: `#ffb86c`
-		- Finished: `#50fa7b`
-	* **Example** project:
-		- New: `#44475a`
-		- Notes: `#ff5555`
-		- Started: `#ff5555`
-		- 1st Draft: `#ffb86c`
-		- 2nd Draft: `#ffb86c`
-		- 3rd Draft: `#ffb86c`
-		- Finished: `#50fa7b`
-3. In the *Importance* Tab, same as in step 2
-	* None: `#44475a`
-	* Minor: `#8be9fd`
-	* Major: `#ff79c6`
-	* Main: `#bd93f9`
+2. In the _Status_ Tab, select a Label, click **Color**, input hex value, and click **Save** for each Label
+    - **Minimal** or **Custom** project:
+        - New: `#44475a`
+        - Notes: `#ff5555`
+        - Draft: `#ffb86c`
+        - Finished: `#50fa7b`
+    - **Example** project:
+        - New: `#44475a`
+        - Notes: `#ff5555`
+        - Started: `#ff5555`
+        - 1st Draft: `#ffb86c`
+        - 2nd Draft: `#ffb86c`
+        - 3rd Draft: `#ffb86c`
+        - Finished: `#50fa7b`
+3. In the _Importance_ Tab, same as in step 2
+    - None: `#44475a`
+    - Minor: `#8be9fd`
+    - Major: `#ff79c6`
+    - Main: `#bd93f9`
 
 ##### Editing `nwProject.nwx`
 
@@ -56,6 +67,7 @@ There is no separate config file to copy and paste into a folder. One either nee
 2. Create a backup of `nwProject.nwx` in case something breaks
 3. Open `nwProject.nwx`
 4. For a new **Minimal** or **Custom** project, replace the `<status>` and `<importance>` tags with:
+
 ```
     <status>
       <entry key="s3d19cf" count="5" red="68" green="71" blue="90">New</entry>
@@ -73,7 +85,8 @@ There is no separate config file to copy and paste into a folder. One either nee
 
 5. For a new **Example** project, same as in step 4 but using the codeblock below:
 
-	**Important!** The `key` values may change between versions and not updating them will break the Example project's existing Label assignments. Check before pasting!
+    **Important!** The `key` values may change between versions and not updating them will break the Example project's existing Label assignments. Check before pasting!
+
 ```
     <status>
       <entry key="sf12341" count="5" red="68" green="71" blue="90">New</entry>
