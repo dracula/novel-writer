@@ -57,7 +57,7 @@ There is no separate config file to copy and paste into a folder. One either nee
         - Finished: `#50fa7b`
 3. In the _Importance_ Tab, same as in step 2
     - None: `#44475a`
-    - Background: `#F1FA8C`
+    - Background: `#f1fa8c`
     - Minor: `#8be9fd`
     - Major: `#ff79c6`
     - Main: `#bd93f9`
