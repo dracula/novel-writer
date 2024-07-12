@@ -10,9 +10,9 @@
 
 ![Dracula Flat Theme with Dracula Alt Syntax Highlighting](./screenshot_flat.png)
 
-### Dracula Alt Theme
+### Dracula Border Theme
 
-![Dracula Alt Theme with Dracula Alt Syntax Highlighting](./screenshot_alt.png)
+![Dracula Border Theme with Dracula Alt Syntax Highlighting](./screenshot_border.png)
 
 ## Install
 

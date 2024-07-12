@@ -22,7 +22,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/novel-write
 
 #### Copy theme to novelWriter config directory
 
-Copy `syntax/dracula.conf`, `themes/dracula.conf`, & `themes/dracula_alt.conf` to the respective syntax and themes directories in the novelWriter config directory:
+Copy `syntax/dracula_alt.conf`, `themes/dracula_flat.conf`, & `themes/dracula_border.conf` to the respective syntax and themes directories in the novelWriter config directory:
 
 -   GNU/Linux: `~/.local/share/novelwriter/<syntax_or_themes>`
 -   macOS: `~/Library/Application Support/novelwriter/<syntax_or_themes>`
@@ -31,7 +31,7 @@ Copy `syntax/dracula.conf`, `themes/dracula.conf`, & `themes/dracula_alt.conf` t
 #### Activating themes
 
 1. Go to Tools > Preferences
-2. In the _Appearance_ section, select the **Dracula Flat** or **Dracula Alt** Color theme for the GUI theme
+2. In the _Appearance_ section, select the **Dracula Flat** or **Dracula Border** Color theme for the GUI theme
 3. In the _Document Style_ section, select the **Dracula Alt** Document color theme for the syntax highlighting theme
 
 #### Changing label colors
