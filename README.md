@@ -2,21 +2,17 @@
 
 > A dark theme for [novelWriter](https://novelwriter.io/).
 
-## novelWriter 2.5 Update
-
-[As of novelWriter 2.5](https://novelwriter.io/releases/release_2_5.html#theme-additions), a Dracula GUI and syntax theme comes bundled with the software. The native version differs slightly from our original themes, which remain available for use as alternatives.
-
-### Dracula Flat Theme
-
 ![Dracula Flat Theme with Dracula Alt Syntax Highlighting](./screenshot_flat.png)
-
-### Dracula Border Theme
 
 ![Dracula Border Theme with Dracula Alt Syntax Highlighting](./screenshot_border.png)
 
 ## Install
 
 All instructions can be found at [draculatheme.com/novel-writer](https://draculatheme.com/novel-writer).
+
+## novelWriter 2.5 Update
+
+[As of novelWriter 2.5](https://novelwriter.io/releases/release_2_5.html#theme-additions), a Dracula GUI and syntax theme comes bundled with the software. The native version differs slightly from our original themes, which remain available for use as alternatives.
 
 ## Team
 
