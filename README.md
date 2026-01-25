@@ -4,11 +4,17 @@
 
 ![built-in Dracula Theme](./screenshot.png)
 
+> Dracula Alternate Syntax Highlighting
+
 ![built-in Dracula Theme with Dracula Alt Syntax Highlighting](./screenshot_alt.png)
+
+> Dracula Flat
 
 ![Dracula Flat Theme](./screenshot_flat.png)
 
 ![Dracula Flat Theme with Dracula Alt Syntax Highlighting](./screenshot_flat_alt.png)
+
+> Dracula Border
 
 ![Dracula Border Theme](./screenshot_border.png)
 
