@@ -5,14 +5,13 @@
 [As of novelWriter 2.5](https://novelwriter.io/releases/release_2_5.html#theme-additions), a Dracula GUI and syntax theme comes bundled with the software.
 
 1. Go to Tools > Preferences
-2. In the _Appearance_ section, select the **Dracula** Color theme for the GUI theme
-3. In the _Document Style_ section, select the **Dracula** Document color theme for the syntax highlighting theme
+2. In the _Appearance_ section, select the **Dracula** Color theme for the _Dark color theme_
 
 The native version differs slightly from our original themes, which remain available for use as alternatives.
 
 #### Install using Git
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+If you are a git user, you can install the alternate Dracula themes and keep up to date by cloning the repo:
 
     git clone https://github.com/dracula/novel-writer.git
 
