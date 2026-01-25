@@ -2,11 +2,15 @@
 
 > A dark theme for [novelWriter](https://novelwriter.io/).
 
-![Dracula Flat Theme with built-in Dracula Syntax Highlighting](./screenshot_flat.png)
+![built-in Dracula Theme](./screenshot.png)
+
+![built-in Dracula Theme with Dracula Alt Syntax Highlighting](./screenshot_alt.png)
+
+![Dracula Flat Theme](./screenshot_flat.png)
 
 ![Dracula Flat Theme with Dracula Alt Syntax Highlighting](./screenshot_flat_alt.png)
 
-![Dracula Border Theme with built-in Dracula Syntax Highlighting](./screenshot_border.png)
+![Dracula Border Theme](./screenshot_border.png)
 
 ![Dracula Border Theme with Dracula Alt Syntax Highlighting](./screenshot_border_alt.png)
 
