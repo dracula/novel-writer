@@ -2,9 +2,13 @@
 
 > A dark theme for [novelWriter](https://novelwriter.io/).
 
-![Dracula Flat Theme with Dracula Alt Syntax Highlighting](./screenshot_flat.png)
+![Dracula Flat Theme with built-in Dracula Syntax Highlighting](./screenshot_flat.png)
 
-![Dracula Border Theme with Dracula Alt Syntax Highlighting](./screenshot_border.png)
+![Dracula Flat Theme with Dracula Alt Syntax Highlighting](./screenshot_flat_alt.png)
+
+![Dracula Border Theme with built-in Dracula Syntax Highlighting](./screenshot_border.png)
+
+![Dracula Border Theme with Dracula Alt Syntax Highlighting](./screenshot_border_alt.png)
 
 ## Install
 
@@ -13,6 +17,10 @@ All instructions can be found at [draculatheme.com/novel-writer](https://dracula
 ## novelWriter 2.5 Update
 
 [As of novelWriter 2.5](https://novelwriter.io/releases/release_2_5.html#theme-additions), a Dracula GUI and syntax theme comes bundled with the software. The native version differs slightly from our original themes, which remain available for use as alternatives.
+
+## novelWriter 2.8 Update
+
+[As of novelWriter 2.8](https://novelwriter.io/releases/release_2_8.html#theme-revamp), syntax highlighting and themes now share a file, separate themes have been created for those who prefer novelWriter's built-in Dracula syntax highlighting and those who prefer our original Dracula syntax as alternatives. It is also now possible to set status colors dynamically with the current theme.
 
 ## Team
 
@@ -24,9 +32,9 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 ## Community
 
--   [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
--   [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
--   [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
 
 ## License
 
